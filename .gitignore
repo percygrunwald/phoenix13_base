@@ -17,3 +17,7 @@ npm-debug.log
 # Config
 /config/dev.exs
 /config/test.exs
+/config/*.toml
+
+# Release
+/rel/dev_set_release_env.sh
